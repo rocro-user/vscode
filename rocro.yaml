@@ -1,0 +1,3 @@
+docstand:
+  typedoc:
+    config-file: src/tsconfig.json
