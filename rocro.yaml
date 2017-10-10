@@ -1,3 +1,8 @@
 docstand:
   typedoc:
     config-file: src/tsconfig.json
+    options:
+      --mode: modules
+      --includeDeclarations:
+      --exclude: "**/test/**"
+      --readme: none
